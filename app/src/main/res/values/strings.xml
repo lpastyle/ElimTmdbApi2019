@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ElimTmdbApi</string>
+
+    <string name="next_button">NEXT</string>
+    <string name="prev_button">PREV</string>
+    <string name="page_number">Page %1$d</string>
+
+    <!--  toast messages -->
+    <string name="toast_no_previous_page">No previous page</string>
+    <string name="toast_http_error">Unhandled HTTP error code </string>
+    <string name="toast_network_error">Network error while calling TMDB api</string>
+
+</resources>
